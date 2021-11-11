@@ -1,0 +1,8 @@
+This is a "Hello World!" line.
+
+git config --global user.name "username" 
+git config --global user.email "email"
+git init : Initialize an empty repository 
+git add . : To add modified file to staging area
+git reset : It is used to remove files from the staging area
+git status : This show the state of working directory and staging area
