@@ -10,3 +10,4 @@ git commit : This command is used to save the files that are currently in stagin
 git log : It is used to obtain the commit that have happened so far with their respective commit messages (detailed)
 git log --oneline: It is used to obtain the commit that have happened so far with their respective commit messages (only commit id and message)
 git push : It is used to upload local repository content to a remote repository(github). 
+working on master branch 
