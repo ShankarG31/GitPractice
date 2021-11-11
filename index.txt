@@ -6,3 +6,4 @@ git init : Initialize an empty repository
 git add . : To add modified file to staging area
 git reset : It is used to remove files from the staging area
 git status : This show the state of working directory and staging area
+git commit : This command is used to save the files that are currently in staging area.
